@@ -1,4 +1,4 @@
-declare module "@nozbe/with-observables" {
+declare module "@fnmora/with-observables" {
   import { ComponentType, NamedExoticComponent } from "react";
   import { Observable } from "rxjs";
   import hoistNonReactStatics = require('hoist-non-react-statics');
